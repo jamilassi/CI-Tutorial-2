@@ -1,0 +1,1 @@
+<p> This is the <strong>home.php</strong> page<p>
